@@ -1,11 +1,33 @@
-# cabecera H1
+# Cabeceras
+# cabecera h1
 ## cabecera h2
 ### cabecera h3
+#### cabecera h4
+##### cabecera h5
+###### cabecera h6
 
+# Underlines
 
-UNDERLINE
+Underline 1
 --------
-UNDERLINE
+Underline 2
 ===========
 
-~~ALT~~ **HOLA** *HOLA*
+# Formatos de enfasis
+- ~~ALT~~ 
+- **HOLA**
+ - *HOLA*
+
+# Listas
+1. Esto es un item
+1. Esto es un item
+1. Esto es un item
+-  Esto es un item
+- Esto es un item
+- Esto es un item
+
+# Links
+- [Este link es de google](http://www.google.com)
+- [Este link es del index](index.html)
+
+
